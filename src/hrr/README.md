@@ -1,0 +1,1 @@
+The `hrr` package contains reusable recovery primitives. The HARR footer parser is intentionally isolated so later format handlers can consume validated container metadata without duplicating footer logic.
